@@ -1,6 +1,6 @@
 # Sebastian Wieland
 
-Software Developer at [4soft Gmbh](https://4soft.de)
+Software Developer at [4soft GmbH](https://4soft.de)
 
 ---
 
